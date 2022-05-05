@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-javascript",
+  "version": "1.0.0",
+  "description": "Consumo de API REST con JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daggiizar/api-rest-javascript.git"
+  },
+  "author": "Daniel Zarate <d.ansizgz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Daggiizar/api-rest-javascript/issues"
+  },
+  "homepage": "https://github.com/Daggiizar/api-rest-javascript#readme"
+}
